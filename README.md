@@ -1,0 +1,2 @@
+# migo
+just another repository
